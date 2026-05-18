@@ -12,7 +12,6 @@ These rules are in addition to the existing rules on the upload and report promp
 
 **```VERY IMPORTANT```**: Mod uploads that the moderation team considers are made for Roleplay purposes mainly (even if they include a single-player version *to bypass the first rule*) will be rejected. This rule applies to old and new mod uploads.
 
-**```Update 18th May 2026```**: We are no longer allowing AI generated content as part of uploads - this takes ALL forms, including - but not limited to - descriptions, images (especially mod thumbnails) and AI generated scripts. Any uploads the moderation team deem to break this rule will be rejected until any AI generated content is removed. Any uploads prior to this date can remain uploaded on the site. This only applies to _new_ uploads. 
 
 ## Descriptions, tags, and screenshots
 
@@ -94,6 +93,7 @@ Using third-party content is allowed if the **original author is credited and th
 * **Revoking permission**: If you have permitted a mod author to use some of your work, and change your mind later, we do not retroactively reject existing uploads that contain the content you revoked permission for.
 
 
+
 ### Updated and/or fixed scripts
 
 We realize scripts are prone to breaking, and might just work again with a few small fixes in the binary. Due to this, we allow updates to abandoned scripts, but under specific conditions:
@@ -147,6 +147,8 @@ However, we do expect you to follow some quality guidelines.
 * **Tutorials:** Content generated from a tutorial or tool is not allowed unless you have modified them substantially.
 * **Stability:** Bugs are expected. Try to thoroughly test your mod before releasing it.
 
+  **```Update 18th May 2026```**: We are no longer allowing AI generated content as part of uploads - this takes ALL forms, including - but not limited to - descriptions, images (especially mod thumbnails) and AI generated scripts. Any uploads the moderation team deem to break this rule will be rejected until any AI generated content is removed. Any uploads prior to this date can remain uploaded on the site. This only applies to _new_ uploads. 
+
 **Emergency content from various countries**
 
 * Any new emergency content mod must be complete by itself, and not require an external download.
@@ -182,6 +184,7 @@ Moderators need as much information as possible to judge fairly and quickly. Unl
 These rules may be changed as the moderation team sees fit, for added clarity about encountered situations, or changes in actual moderation decisions.
 
 The moderation team has the right to remove, reject, and edit uploads, comments, reports, and forum posts at any time. For a rejected mod upload, if you do not agree with a decision, discuss this in the comment section of your upload.
+
 
 [//]: # (2019-08-14: ikt: Change the 7 day grace period and no contact = implicit permission phrase, to always requiring permission.)
 [//]: # (2019-08-16: ikt: Remove "positive" feedback expectation. Just constructive is fine.)
