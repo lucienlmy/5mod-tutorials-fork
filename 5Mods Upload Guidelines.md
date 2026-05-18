@@ -12,7 +12,10 @@ These rules are in addition to the existing rules on the upload and report promp
 
 **```VERY IMPORTANT```**: Mod uploads that the moderation team considers are made for Roleplay purposes mainly (even if they include a single-player version *to bypass the first rule*) will be rejected. This rule applies to old and new mod uploads.
 
+**```Update 18th May 2026```**: We are no longer allowing AI generated content as part of uploads - this takes ALL forms, including - but not limited to - descriptions, images (especially mod thumbnails) and AI generated scripts. Any uploads the moderation team deem to break this rule will be rejected until any AI generated content is removed. Any uploads prior to this date can remain uploaded on the site. This only applies to _new_ uploads. 
+
 ## Descriptions, tags, and screenshots
+
 
 A mod description must be complete and understandable by everybody. It needs to have *at least* the following information to be accepted:
 
