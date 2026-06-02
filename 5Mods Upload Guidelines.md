@@ -83,6 +83,8 @@ Your upload's main image must be **an in-game screenshot (mandatory) or otherwis
 
 Screenshots of objects like vehicles, paint jobs, weapons, and peds must be well-lit.
 
+  **```Update 18th May 2026```**: We are no longer allowing AI generated content as part of uploads - this takes ALL forms, including - but not limited to - descriptions, images (especially mod thumbnails) and AI generated scripts. Any uploads the moderation team deem to break this rule will be rejected until any AI generated content is removed. Any uploads prior to this date can remain uploaded on the site. This only applies to _new_ uploads. 
+
 ## Credits, Permissions, and copyright
 
 Using third-party content is allowed if the **original author is credited and their terms or license on their works are complied with**. When reaching an agreement, please make this clear in your description as any uncertainty might result in a rejection of your submission.
